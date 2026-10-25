@@ -1,107 +1,110 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Попов%20Александр&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=22" width="100%" />
+<img src="./assets/hero.svg" width="100%" alt="Frontend developer at work" />
+
+# Привет, я Александр 👋
 
 <a href="https://github.com/Tausyyy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind;Building+clean+%26+responsive+UI;Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind;Clean+code+%26+pixel-perfect+UI;Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://t.me/dowtu"><img src="https://img.shields.io/badge/Telegram-@dowtu-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="mailto:claud5845@gmail.com"><img src="https://img.shields.io/badge/Email-claud5845@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Open%20to%20work-Frontend%20Developer-2ea44f?style=for-the-badge" alt="Open to work" />
 
 <br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Tausyyy.Tausyyy" alt="visitors" />
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" alt="coding gif" />
+<a href="https://t.me/dowtu" title="Telegram — @dowtu"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="46" height="46" alt="Telegram — @dowtu" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:claud5845@gmail.com" title="Почта — claud5845@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="46" height="46" alt="Почта — claud5845@gmail.com" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Tausyyy" title="GitHub — Tausyyy"><img src="https://cdn.simpleicons.org/github/8b949e" width="46" height="46" alt="GitHub — Tausyyy" /></a>
 
 </div>
 
 ---
 
-## 👋 Привет! Меня зовут Александр
+## 👨‍💻 Обо мне
 
-Я **Frontend-разработчик**. Верстаю адаптивные интерфейсы, пишу на **React + TypeScript** и люблю, когда код чистый, а UI аккуратный и быстрый.
+Я **Frontend-разработчик**. Верстаю адаптивные интерфейсы, пишу на **React + TypeScript** и стараюсь, чтобы код был чистым, а UI — быстрым и аккуратным.
 
-- 🔭 Делаю SPA на **React** с типизацией на **TypeScript**
-- 🎨 Верстаю на **HTML / CSS / SCSS / Tailwind** — pixel-perfect и mobile-first
-- 🌱 Постоянно учусь и прокачиваю стек
-- 💼 Открыт к предложениям и интересным проектам
-- 📫 Пишите — отвечу быстро
+```ts
+const developer = {
+  name: "Попов Александр",
+  role: "Frontend Developer",
+  stack: ["HTML", "CSS / SCSS", "Tailwind", "JavaScript", "TypeScript", "React"],
+  learning: ["Next.js", "Redux Toolkit", "Testing"],
+  principles: ["clean code", "mobile-first", "accessibility"],
+  openToWork: true,
+  contact: "@dowtu",
+};
+```
 
 ---
 
 ## 🛠 Технологии
 
+> Наведи курсор на иконку, чтобы увидеть название.
+
 ### Основной стек
+<table align="center"><tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="52" height="52" title="HTML5" alt="HTML5" /><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="52" height="52" title="CSS3" alt="CSS3" /><br/><sub><b>CSS3</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=sass" width="52" height="52" title="SCSS" alt="SCSS" /><br/><sub><b>SCSS</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="52" height="52" title="Tailwind CSS" alt="Tailwind CSS" /><br/><sub><b>Tailwind CSS</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="52" height="52" title="JavaScript" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="52" height="52" title="TypeScript" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="52" height="52" title="React" alt="React" /><br/><sub><b>React</b></sub></td>
+</tr></table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react&perline=7" alt="main stack" />
-</p>
+### Инструменты
+<table align="center"><tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="52" height="52" title="Git" alt="Git" /><br/><sub><b>Git</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="52" height="52" title="GitHub" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=vite" width="52" height="52" title="Vite" alt="Vite" /><br/><sub><b>Vite</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="52" height="52" title="Figma" alt="Figma" /><br/><sub><b>Figma</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=npm" width="52" height="52" title="npm" alt="npm" /><br/><sub><b>npm</b></sub></td>
+</tr></table>
 
-| | Технология | Что умею |
-|---|---|---|
-| 🧱 | **HTML5** | семантическая, доступная вёрстка |
-| 🎨 | **CSS3 / SCSS** | Flexbox, Grid, анимации, БЭМ, миксины и переменные |
-| 💨 | **Tailwind CSS** | быстрая адаптивная вёрстка, кастомные темы |
-| ⚡ | **JavaScript (ES6+)** | DOM, async/await, работа с API |
-| 🔷 | **TypeScript** | типизация компонентов, пропсов и ответов API |
-| ⚛️ | **React** | хуки, роутинг, управление состоянием |
-
-### Смежные технологии
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vite,git,github,figma,nodejs,redux,nextjs,jest,webpack,postman&perline=10" alt="related stack" />
-</p>
-
-`Vite` · `Git / GitHub` · `Figma` · `Redux Toolkit / Zustand` · `React Router` · `Next.js` · `Vitest / Jest` · `React Testing Library` · `REST API` · `Node.js` · `npm / pnpm` · `Postman`
-
----
-
-## 📊 GitHub-статистика
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tausyyy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tausyyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Tausyyy&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tausyyy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
-
-</div>
+### Изучаю
+<table align="center"><tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="52" height="52" title="Next.js" alt="Next.js" /><br/><sub><b>Next.js</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="52" height="52" title="Redux" alt="Redux" /><br/><sub><b>Redux</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=jest" width="52" height="52" title="Jest" alt="Jest" /><br/><sub><b>Jest</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="52" height="52" title="Node.js" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
+</tr></table>
 
 ---
 
-## 🐍 Активность
+## 🤝 Что я привношу в команду
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tausyyy/Tausyyy/output/github-snake-dark.svg" alt="snake" />
-
-</div>
-
----
-
-## 📫 Контакты
-
-<div align="center">
-
-| Где | Ссылка |
+| 💡 Что делаю | 🧭 Как работаю |
 |---|---|
-| ✈️ **Telegram** | [@dowtu](https://t.me/dowtu) |
-| 📧 **Почта** | [claud5845@gmail.com](mailto:claud5845@gmail.com) |
-| 💻 **GitHub** | [Tausyyy](https://github.com/Tausyyy) |
+| Адаптивная вёрстка по макету из Figma | Mobile-first и семантический HTML |
+| SPA-интерфейсы на React + TypeScript | Типизация, понятные компоненты, чистый код |
+| Стили на SCSS и Tailwind | Переиспользуемые стили, единая дизайн-система |
+| Интеграция с REST API | Обработка загрузки и ошибок, аккуратный UX |
+| Работа в Git / GitHub | Небольшие коммиты и понятные pull request'ы |
+
+### 🔄 Мой рабочий процесс
+
+```mermaid
+flowchart LR
+    A[🎨 Макет Figma] --> B[🧱 HTML + SCSS / Tailwind]
+    B --> C[⚛️ React + TypeScript]
+    C --> D[🔌 REST API]
+    D --> E[🧪 Проверка и ревью]
+    E --> F[🚀 Деплой]
+```
+
+## 📫 Давай работать вместе
+
+<div align="center">
+
+Открыт к предложениям и интересным проектам. Пиши, отвечу быстро.
+
+<br/>
+
+<a href="https://t.me/dowtu" title="Telegram — @dowtu"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="46" height="46" alt="Telegram — @dowtu" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:claud5845@gmail.com" title="Почта — claud5845@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="46" height="46" alt="Почта — claud5845@gmail.com" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Tausyyy" title="GitHub — Tausyyy"><img src="https://cdn.simpleicons.org/github/8b949e" width="46" height="46" alt="GitHub — Tausyyy" /></a>
+
+<br/><br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Tausyyy.Tausyyy" alt="visitors" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />

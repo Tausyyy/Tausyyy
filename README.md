@@ -24,8 +24,6 @@
 
 ## 🛠 Технологии
 
-> Наведи курсор на иконку, чтобы увидеть название.
-
 ### Основной стек
 <table align="center"><tr>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="52" height="52" title="HTML5" alt="HTML5" /><br/><sub><b>HTML5</b></sub></td>
@@ -80,7 +78,6 @@
 | Адаптивная вёрстка по макету из Figma | Mobile-first и семантический HTML |
 | SPA-интерфейсы на React + TypeScript | Типизация, понятные компоненты, чистый код |
 | Стили на SCSS и Tailwind | Переиспользуемые стили, единая дизайн-система |
-| Интеграция с REST API | Обработка загрузки и ошибок, аккуратный UX |
 | Работа в Git / GitHub | Небольшие коммиты и понятные pull request'ы |
 
 ---

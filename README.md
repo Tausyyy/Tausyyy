@@ -8,33 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind;Clean+code+%26+pixel-perfect+UI;Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Open%20to%20work-Frontend%20Developer-2ea44f?style=for-the-badge" alt="Open to work" />
-
 <br/><br/>
 
-<a href="https://t.me/dowtu" title="Telegram — @dowtu"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="46" height="46" alt="Telegram — @dowtu" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:claud5845@gmail.com" title="Почта — claud5845@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="46" height="46" alt="Почта — claud5845@gmail.com" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Tausyyy" title="GitHub — Tausyyy"><img src="https://cdn.simpleicons.org/github/8b949e" width="46" height="46" alt="GitHub — Tausyyy" /></a>
+<a href="https://t.me/dowtu" title="Telegram — @dowtu"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="46" height="46" alt="Telegram — @dowtu" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&amp;to=claud5845@gmail.com" title="Почта — claud5845@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="46" height="46" alt="Почта — claud5845@gmail.com" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Tausyyy" title="GitHub — Tausyyy"><img src="https://cdn.simpleicons.org/github/8b949e" width="46" height="46" alt="GitHub — Tausyyy" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 Обо мне
-
-Я **Frontend-разработчик**. Верстаю адаптивные интерфейсы, пишу на **React + TypeScript** и стараюсь, чтобы код был чистым, а UI — быстрым и аккуратным.
-
-```ts
-const developer = {
-  name: "Попов Александр",
-  role: "Frontend Developer",
-  stack: ["HTML", "CSS / SCSS", "Tailwind", "JavaScript", "TypeScript", "React"],
-  learning: ["Next.js", "Redux Toolkit", "Testing"],
-  principles: ["clean code", "mobile-first", "accessibility"],
-  openToWork: true,
-  contact: "@dowtu",
-};
-```
+<div align="center">
+  <img src="./assets/about.svg" width="100%" alt="Попов Александр — Frontend-разработчик. Превращаю макеты в живые адаптивные интерфейсы на React и TypeScript." />
+</div>
 
 ---
 
@@ -72,6 +56,23 @@ const developer = {
 
 ---
 
+## 🚀 Проекты
+
+<div align="center">
+<table>
+<tr>
+<td>
+  <a href="https://github.com/Tausyyy/Twix-VPN"><img src="./assets/project-twix-vpn.svg" width="420" alt="Twix-VPN" /></a>
+</td>
+<td>
+  <a href="https://github.com/Tausyyy/online-store"><img src="./assets/project-online-store.svg" width="420" alt="online-store" /></a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🤝 Что я привношу в команду
 
 | 💡 Что делаю | 🧭 Как работаю |
@@ -82,16 +83,7 @@ const developer = {
 | Интеграция с REST API | Обработка загрузки и ошибок, аккуратный UX |
 | Работа в Git / GitHub | Небольшие коммиты и понятные pull request'ы |
 
-### 🔄 Мой рабочий процесс
-
-```mermaid
-flowchart LR
-    A[🎨 Макет Figma] --> B[🧱 HTML + SCSS / Tailwind]
-    B --> C[⚛️ React + TypeScript]
-    C --> D[🔌 REST API]
-    D --> E[🧪 Проверка и ревью]
-    E --> F[🚀 Деплой]
-```
+---
 
 ## 📫 Давай работать вместе
 
@@ -101,10 +93,6 @@ flowchart LR
 
 <br/>
 
-<a href="https://t.me/dowtu" title="Telegram — @dowtu"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="46" height="46" alt="Telegram — @dowtu" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:claud5845@gmail.com" title="Почта — claud5845@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="46" height="46" alt="Почта — claud5845@gmail.com" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Tausyyy" title="GitHub — Tausyyy"><img src="https://cdn.simpleicons.org/github/8b949e" width="46" height="46" alt="GitHub — Tausyyy" /></a>
-
-<br/><br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Tausyyy.Tausyyy" alt="visitors" />
+<a href="https://t.me/dowtu" title="Telegram — @dowtu"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="46" height="46" alt="Telegram — @dowtu" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&amp;to=claud5845@gmail.com" title="Почта — claud5845@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="46" height="46" alt="Почта — claud5845@gmail.com" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Tausyyy" title="GitHub — Tausyyy"><img src="https://cdn.simpleicons.org/github/8b949e" width="46" height="46" alt="GitHub — Tausyyy" /></a>
 
 </div>

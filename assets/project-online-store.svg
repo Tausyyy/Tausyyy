@@ -10,7 +10,6 @@
   <rect x="270" y="34" width="142" height="26" rx="13" fill="#ffffff" fill-opacity=".10"/>
   <text x="341.0" y="51" text-anchor="middle" font-size="12" font-weight="600" fill="#2dd4bf">Командный проект</text>
   <text x="28" y="92" font-size="14" fill="#e2e8f0">Интернет-магазин на PostgreSQL.</text>
-  <text x="28" y="114" font-size="14" fill="#cbd5e1">Моя часть: оптимизация запросов к БД.</text>
   <rect x="28" y="136" width="96" height="26" rx="13" fill="#2dd4bf" fill-opacity=".16" stroke="#2dd4bf" stroke-opacity=".5"/><text x="76.0" y="153" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">PostgreSQL</text><rect x="132" y="136" width="45" height="26" rx="13" fill="#2dd4bf" fill-opacity=".16" stroke="#2dd4bf" stroke-opacity=".5"/><text x="154.5" y="153" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">SQL</text><rect x="185" y="136" width="45" height="26" rx="13" fill="#2dd4bf" fill-opacity=".16" stroke="#2dd4bf" stroke-opacity=".5"/><text x="207.5" y="153" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">Git</text><rect x="238" y="136" width="81" height="26" rx="13" fill="#2dd4bf" fill-opacity=".16" stroke="#2dd4bf" stroke-opacity=".5"/><text x="278.5" y="153" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">Teamwork</text>
   <text x="28" y="186" font-size="13.5" font-weight="600" fill="#2dd4bf">Открыть репозиторий  →</text>
 </g>
